@@ -16,6 +16,8 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		
+		//jia 加入
+		
 		//创建使用单个线程的线程池
         ExecutorService es1 = Executors.newSingleThreadExecutor();
         for (int i = 0; i < 10; i++) {
