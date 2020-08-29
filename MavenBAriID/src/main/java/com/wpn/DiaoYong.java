@@ -8,7 +8,8 @@ public class DiaoYong {
 		Demo d = new Demo();
 		d.say();
 		//鞍山市所  
-		//AABB
+		//jian2  2hang
+		//jian2  2hang
 		System.out.println("DiaoYong 类  执行");
 	}
 }
